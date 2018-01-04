@@ -2,4 +2,9 @@
 title: "Cara E. Brook"
 ---
 
-Hello, World!
+
+<img src="IMGP8459.jpg" alt="IMGP8459" style="height: 500px;"/>
+
+I am a Miller postdoctoral fellow at UC Berkeley, working jointly in the labs of Professor Mike Boots (Department of Integrative Biology) and Professor Britt Glaunsinger (Department of Plant and Microbiology). I study the dynamics of infectious disease transmission, with a particular emphasis on zoonotic pathogens that cross species barriers from wildlife to human populationss. Most of my work centers around viral zoonoses that emerge from wild bat hosts.
+
+Bats are the purported reservoir hosts for several of the world's most virulent emerging human diseases, including Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS and MERS coronaviruses. Bats appear to host these viruses without experiencing extensive morbidity or mortality, leading researchers to ask whether bats might be uniquely adapted for their roles as pathogen hosts. I bridge field ecology, cellular immunology, and quantitative epidemiology to investigate this question, at both within-host and population levels, with a particular focus on viral infections in Madagascar fruit bats.

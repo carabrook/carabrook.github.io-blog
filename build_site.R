@@ -6,3 +6,4 @@ setwd("/Users/caraebrook/Documents/R/R_repositories/website/carabrook.github.io"
 
 #render your sweet site. 
 rmarkdown::render_site()
+

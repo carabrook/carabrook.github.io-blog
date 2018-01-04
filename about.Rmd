@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-Miller postdoctoral fellow in Integrative Biology.
+Miller postdoctoral fellow in Integrative Biology. 
