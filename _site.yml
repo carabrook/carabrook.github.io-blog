@@ -5,13 +5,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research Interests"
-      href: index.html
+    - text: "Research"
+      href: research_interests.html
     - text: "Publications"
       href: publications.html
-    - text: "CV"
-      href: index.html
-    - text: "About Me"
+    - text: "E2M2" 
+      href: E2M2.html
+    - text: "Bio"
       href: about.html
     - text: "Blog"
       href: blog.html
