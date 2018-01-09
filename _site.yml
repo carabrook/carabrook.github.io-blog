@@ -15,8 +15,8 @@ navbar:
       href: about.html
     - text: "Writing"
       href: writing.html
-    - text: "Blog"
-      href: https://carabrook.github.io/blog/
+    - text: "Cara's Blog"
+      href: http://carabrook.github.io/blog/
     
       
 output:
