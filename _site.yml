@@ -13,5 +13,8 @@ navbar:
       href: E2M2.html
     - text: "Bio"
       href: about.html
-    - text: "Blog"
-      href: blog.html
+    - text: "Writing"
+      href: writing.html
+output:
+  html_document:
+    css: style.css
