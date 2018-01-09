@@ -13,9 +13,7 @@ navbar:
       href: E2M2.html
     - text: "Bio"
       href: about.html
-    - text: "Writing"
-      href: writing.html
-    - text: "Cara's Blog"
+    - text: "Blog"
       href: http://carabrook.github.io/blog/
     
       
