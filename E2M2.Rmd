@@ -27,21 +27,21 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 
 * 6:30am: Depart from Tana (Institut Pasteur) via bus, travel to Ranomafana (lunch stop Antsirabe)
 * 6:30-7:30pm: Dinner
-* 7:30-8:30pm: Introductions and Road Map: <a href="E2M2_What_are_we_doing_here.pdf"<>What are we doing here?</a></div>
+* 7:30-8:30pm: Introductions and Road Map: <a href="E2M2/What_are_we_doing_here.pdf"<>What are we doing here?</a></div>
 
 **Sun, Jan 14: “Thinking About Data”**
 
 * 6:30-8:00am: Breakfast
 * 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
 * 8:30-9:30am: Lecture: Models and Data __(Tanjona)__
-* 9:30-10:30am: Software installation and catch-up. Mentors + instructors make sure all students have the proper materials installed and work through 4 tutorials with them.
+* 9:30-10:30am: Software installation and catch-up. Mentors + instructors make sure all students have the proper materials installed and work through <a href="E2M2/R_tutorials.zip"<>4 tutorials</a></div> with them.
 * 10:30am – 11:00am: Break
 * 11:00am-12:00pm: 1-min student introductions and research presentations __(Cara)__
 * 12:00-1:00pm: Lunch
-* 1:00-2:00pm Lecture: Exploring & visualizing data in R __(Christian + Cara)__
+* 1:00-2:00pm <a href="Data_Visualization.zip"<>Lecture: Exploring & visualizing data in R</a></div> __(Christian + Cara)__
 * 2:00-3:00pm: Tutorial: Exploring & visualizing data in R __(Christian + Cara)__
 * 3:00-3:30pm: Break
-* 3:30pm-4:30pm: Lecture: Linear regression and simple statistics __(Andres)__
+* 3:30pm-4:30pm: <a href="Statistical_Modeling.zip"><Lecture: Linear regression and simple statistics</a></div> __(Andres)__
 * 4:30-5:30pm: Tutorial: Basic statistical modeling in R __(Andres)__
 * 5:30-6:30pm: Free time
 * 6:30-7:30pm: Dinner
@@ -53,7 +53,7 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 * 8:30am-9:30am: Lecture: Introduction to mixed modeling __(Andres)__
 * 9:30am-10:00am: Break
 * 10:00am-11:00am: Tutorial: Mixed modeling in R __(Andres)__
-* 11:00am-12:00pm: Writing Exercise: Formulating research questions __(HW)__ __(Cara)__
+* 11:00am-12:00pm: <a href="HW_Formulating_Research_Questions.pdf"><Writing Exercise: Formulating research questions</a></div> __(HW)__ __(Cara)__
 * 12:00pm-1:00pm: Lunch
 * 1:00-2:30pm: Lecture w/Tutorial: Introduction to occupancy modeling __(Fidy)__
 * 2:30-3:00pm: Prep for hike
@@ -64,30 +64,30 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 
 * 6:30-8:00am: Breakfast
 * 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
-* 8:30-10:00am: Lecture: Introduction to Compartmental Models and Differential Equations __(Jess)__
+* 8:30-10:00am: <a href="Intro_to_Mechanistic_Models.zip"><Lecture: Introduction to Compartmental Models and Differential Equations</a></div> __(Jess)__
 * 10:00-10:30am: Break
 * 10:30am-12:00pm: Tutorial: Building Mechanistic Models in R __(Jess)__
 * 12:00-1:00pm: Lunch
-* 1:00-3:00pm: Small group session: Refining research questions for modeling __(Cara introduces + all instructors lead small groups)__
-* 3:00-3:30pm: Writing Exercise: Creating a model world to address a research question __(HW)__ __(Cara)__
-* 3:30-4:00pm: Break
-* 4:00-6:00pm: Exercise + Discussion: Dynamical Fever __(Calistus + Christian)__
+* 1:00-2:00pm: Small group session: Refining research questions for modeling __(Cara introduces + all instructors lead small groups)__
+* 2:00-2:30pm: <a href="Model_Framework_HW.pdf"><Writing Exercise: Creating a model world to address a research question</a></div> __(HW)__ __(Cara)__
+* 2:30-3:00pm: Break
+* 3:00-5:00pm: <a href="Dynamical_Fever.zip"><Exercise + Discussion: Dynamical Fever</a></div> __(Christian + Cara)__
+* 5:00-6:30pm: Mentor research presentations __(Jean-Marius, Ornella, Antso)__
 * 6:30-7:30pm: Dinner
-* 8:00-9:00pm: Mentor research presentations __(Jean-Marius, Ornella, Antso)__
 
 **Wed, Jan 17: “Fitting Models to Data”**
 
 * 6:30-8:00am: Breakfast
 * 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
-* 8:30-9:30am: Lecture w/Tutorial: Model Fitting in Practice – the Basic Concept __(Cara)__
+* 8:30-9:30am: <a href="Model_Fitting_Basic_Concept.zip"><Lecture w/Tutorial: Model Fitting in Practice – the Basic Concept</a></div> __(Cara)__
 * 9:30-10:00am: Break
-* 10:00-11:00am: Exercise: Epidemics Cards __(Cara + Calistus)__
+* 10:00-11:00am: <a href="Epidemic_Cards.zip"><Exercise: Epidemics Cards</a></div> __(Cara + Amy)__
 * 11:00am-12:00pm: Tutorial: Model Fitting with Epidemic Cards __(Cara)__
 * 12:00-1:00pm: Lunch
-* 1:00pm-2:00pm: Lecture: Alternative Approaches to Model Fitting __(Calistus)__
+* 1:00pm-2:00pm: Lecture: Alternative Approaches to Model Fitting __(Andres)__
 * 2:00-3:30pm: Model Telephone with Model Diagrams __(Tanjona)__
 * 3:30-4:00pm: Break
-* 4:00-5:00pm: Lecture: PIVOT’s Role in E2M2 __(Matt)__
+* 4:00-5:00pm: Lecture: PIVOT’s Role in E^2^M^2^ __(Matt)__
 * 5:00-6:30pm Mid-session feedback
 * 6:30-7:30pm: Dinner
 
@@ -98,10 +98,11 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 * 8:30-9:30am:  Lecture: Modeling Extensions – Metapopulation Theory, Incorporating Heterogeneity, etc. __(Tanjona)__
 * 9:30-10:00am: Break
 * 10:00-11:30am: Lecture w/Tutorial: Introduction to Network Modeling __(Fidy)__
-* 11:30am-12:00pm: Final research plans __(HW)__ __(Cara)__
+* 11:30am-12:00pm: <a href="Final-Research-Plan.pdf"><Final research plans</a></div> __(HW)__ __(Cara)__
 * 12:00pm-1:00pm: Lunch
 * 1:00pm-2:00pm: Lecture: Introduction to Spatial Modeling __(Amy)__
-* 2:00-4:00pm: Tutorial: Spatial Modeling and Statistics in R __(Amy)__
+* 2:00-3:00pm: Tutorial: Spatial Modeling and Statistics in R __(Amy)__
+* 3:00-4:00pm: Discussion of a <a href="Readings.zip"><scientific paper</a></div> --(Tanjona)__
 * 4:00-4:30pm: Break
 * 4:30-6:30pm: Work time + one-on-one mentoring sessions __(all)__
 * 6:30-7:30pm: Dinner
@@ -112,7 +113,7 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 * 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
 * 8:30-9:30am: Lecture: Model Evaluation and Comparison __(Calistus)__
 * 9:30-10:00am: Break
-* 10:00am-11:30am: Tutorial: Model Selection with Age-Prevalence Data __(Cara)__
+* 10:00am-11:30am: <a href="Rodent-Age-Prevalence.zip"><Tutorial: Model Selection with Age-Prevalence Data</a></div> __(Cara)__
 * 12:00-1:00pm: Lunch
 * 1:00-2:00pm: Lecture: Modeling in Practice: The Life Cycle of a Modeling Project, from Conception to Publication __(Andres)__
 * 2:00-3:00pm: Lecture: Looking back: How far have we come? __(Calistus)__
