@@ -19,7 +19,7 @@ Along with [Tanjona Ramidantsoa](http://landscape.zoology.wisc.edu/People/Ramiad
 
 Our 2018 clinic will take place from January 13-20, 2018 at Centre ValBio, Ranomafana National Park, Madagascar, with a mandatory closing session to follow at Institut Pasteur de Madagascar on January 22. 
 
-Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/person/faculty/matthew-bonds), Cara Brook, [Andres Garchitorena](http://bondslab.com/people/andres-garchitorena/), [Jessica Metcalf](metcalflab.princeton.edu/), [Calistus Ngonghala](https://people.clas.ufl.edu/calistusnn/), [Tanjona Ramiadantsoa](http://landscape.zoology.wisc.edu/People/Ramiadantsoa.html), [Fidisoa Rasambainarivo](http://www.umsl.edu/~parkerp/Fidisoa.html), Julio Rakotonirina, Hafaliana Christian Ranaivoson, and [Amy Wesolowski](https://www.jhsph.edu/faculty/directory/profile/3546/amy-wesolowski).
+Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/person/faculty/matthew-bonds), Cara Brook, [Andres Garchitorena](http://bondslab.com/people/andres-garchitorena/), [Jessica Metcalf](metcalflab.princeton.edu/), [Calistus Ngonghala](https://people.clas.ufl.edu/calistusnn/), [Tanjona Ramiadantsoa](http://landscape.zoology.wisc.edu/People/Ramiadantsoa.html), [Fidisoa Rasambainarivo](https://fidyras.com/), Julio Rakotonirina, Hafaliana Christian Ranaivoson, and [Amy Wesolowski](https://www.jhsph.edu/faculty/directory/profile/3546/amy-wesolowski).
 
 **2018 Syllabus:**
 
@@ -27,7 +27,7 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 
 * 6:30am: Depart from Tana (Institut Pasteur) via bus, travel to Ranomafana (lunch stop Antsirabe)
 * 6:30-7:30pm: Dinner
-* 7:30-8:30pm: Introductions and Road Map: What are we doing here? __(Cara)__
+* 7:30-8:30pm: Introductions and Road Map: <a href="E2M2_What_are_we_doing_here.pdf"<>What are we doing here?</a></div>
 
 **Sun, Jan 14: “Thinking About Data”**
 
@@ -125,7 +125,7 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 * 8:00-9:00am: pack up and board bus
 * Return to Antananarivo via bus
 
-**Mon, Jan 22: "Closing Thoughts"** *(at [Institut Pasteur de Madagascar](http://www.pasteur.mg/) in Antananarivo)*
+**Mon, Jan 22: "Sharing Your Work"** *(at [Institut Pasteur de Madagascar](http://www.pasteur.mg/) in Antananarivo)*
 
 * 9:00-11:00am: Closing ceremony and final student presentations __(Cara)__
 * 11:00am-12:00pm: Final Feedback Session __(Julio)__
