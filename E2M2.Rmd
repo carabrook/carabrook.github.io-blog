@@ -27,7 +27,7 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 
 * 6:30am: Depart from Tana (Institut Pasteur) via bus, travel to Ranomafana (lunch stop Antsirabe)
 * 6:30-7:30pm: Dinner
-* 7:30-8:30pm: Introductions and Road Map: [What are we doing here?](E2M2/E2M2_What_are_we_doing_here.pdf)
+* 7:30-8:30pm: Introductions and Road Map: [What are we doing here?](E2M2/E2M2_What_are_we_doing_here.pdf) __(Cara)__
 
 **Sun, Jan 14: “Thinking About Data”**
 
