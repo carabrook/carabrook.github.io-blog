@@ -40,8 +40,7 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 * 12:00-1:00pm: Lunch
 * 1:00-3:00pm [Lecture/Tutorial: Exploring & visualizing data in R](E2M2/E2M2_Data_Visualization.zip) __(Christian)__
 * 3:00-3:30pm: Break
-* 3:30pm-4:30pm: [Lecture: Linear regression and simple statistics](E2M2/E2M2_Statistical_Modeling.zip) __(Andres)__
-* 4:30-5:30pm: [Tutorial: Basic statistical modeling in R](E2M2_Basic_statistical_modeling.zip) __(Andres)__
+* 3:30-5:30pm: [Lecture/Tutorial: Linear regression and simple statistics](E2M2/E2M2_Basic_statistical_modeling.zip) __(Andres)__
 * 5:30-6:30pm: Free time
 * 6:30-7:30pm: Dinner
 
