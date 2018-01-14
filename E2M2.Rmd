@@ -33,7 +33,7 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 
 * 6:30-8:00am: Breakfast
 * 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
-* 8:30-9:30am: Lecture: Models and Data __(Tanjona)__
+* 8:30-9:30am: [Lecture: Models and Data](E2M2/E2M2_Models_and_Data.pdf) __(Tanjona)__
 * 9:30-10:30am: Software installation and catch-up. Mentors + instructors make sure all students have the proper materials installed and work through [4 tutorials](E2M2/E2M2_R_tutorials.zip) with them.
 * 10:30am – 11:00am: Break
 * 11:00am-12:00pm: 1-min student introductions and research presentations __(Cara)__
@@ -106,6 +106,7 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 * 4:00-4:30pm: Break
 * 4:30-6:30pm: Work time + one-on-one mentoring sessions __(all)__
 * 6:30-7:30pm: Dinner
+* *-00-10:00pm: Night hike: Ranomafana National Park
 
 **Fri, Jan 19: “Putting it all in Perspective”**
 
