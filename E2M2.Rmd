@@ -47,15 +47,15 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 **Mon, Jan 15: “Deeper Thinking About Data”**
 
 * 6:30-8:00am: Breakfast
-* 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
-* 8:30am-9:30am: Lecture: Introduction to mixed modeling __(Andres)__
-* 9:30am-10:00am: Break
-* 10:00am-11:00am: Tutorial: Mixed modeling in R __(Andres)__
-* 11:00am-12:00pm: [Writing Exercise: Formulating research questions](E2M2/E2M2_HW_Formulating_Research_Questions.pdf) __(HW)__ __(Cara)__
-* 12:00pm-1:00pm: Lunch
-* 1:00-2:30pm: Lecture w/Tutorial: Introduction to occupancy modeling __(Fidy)__
-* 2:30-3:00pm: Prep for hike
-* 3:00-6:30pm: Afternoon hike in Ranomafana National Park
+* 8:00-8:15am: Road Map and Daily Agenda __(Cara)__
+* 8:15am-9:45am: Lecture/Tutorial: Introduction to mixed modeling __(Andres)__
+* 9:45 - 10:00am: Coffee Break. Prep for hike!
+* 10:00am-1:00pm: Morning walk in Ranomafana National Park
+* 1:00pm-2:00pm: Lunch
+* 2:00 - 3:00pm: [Writing Exercise: Formulating research questions](E2M2/E2M2_HW_Formulating_Research_Questions.pdf) __(HW)__ __(Cara)__
+* 3:00-3:30pm: Break
+* 3:30-5:00pm: Lecture w/Tutorial: Introduction to occupancy modeling __(Fidy)__
+* 5:00-6:30pm: Free time, or one-on-one mentoring
 * 6:30-7:30pm: Dinner
 
 **Tues, Jan 16: “Thinking About Mechanism”**
