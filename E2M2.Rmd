@@ -65,16 +65,16 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 **Tues, Jan 16: “Thinking About Mechanism”**
 
 * 6:30-8:00am: Breakfast
-* 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
-* 8:30-10:00am: Lecture: Introduction to Compartmental Models and Differential Equations __(Jess)__
-* 10:00-10:30am: Break
-* 10:30am-12:00pm: Tutorial: Building Mechanistic Models in R __(Jess)__
+* 8:00-8:15am: Road Map and Daily Agenda __(Cara)__
+* 8:15-10:15am: [Lecture/Tutorial: Introduction to Compartmental Models and Differential Equations](E2M2/E2M2_Intro_to_Mechanistic_Models.zip) __(Jess)__
+* 10:15-10:45am: Break
+* 10:45am-12:00pm: Group exercise: Refining research questions for modeling __(Cara)__
 * 12:00-1:00pm: Lunch
-* 1:00-2:00pm: Small group session: Refining research questions for modeling __(Cara introduces + all instructors lead small groups)__
-* 2:00-2:30pm: [Writing Exercise: Creating a model world to address a research question](E2M2/E2M2_Model_Framework_HW.pdf) __(HW)__ __(Cara)__
-* 2:30-3:00pm: Break
-* 3:00-5:00pm: [Exercise + Discussion: Dynamical Fever](E2M2/E2M2_Dynamical_Fever.zip) __(Mentors: Jean-Marius, Ornella, Antso)__
-* 5:00-6:30pm: Mentor research presentations __(Jean-Marius, Ornella, Antso)__
+* 1:00-2:00pm: Small group session: Refining research questions for modeling (cont.) __(all instructors lead small groups)__
+* 2:00-2:15pm: [Writing Exercise: Creating a model world to address a research question](E2M2/E2M2_Model_Framework_HW.pdf) __(HW)__ __(Cara)__
+* 2:15-2:45pm: Break
+* 2:45-4:30pm: [Exercise + Discussion: Dynamical Fever](E2M2/E2M2_Dynamical_Fever.zip) __(Mentors: Jean-Marius, Ornella, Antso)__
+* 4:30-6:30pm: Mentor research presentations __(Jean-Marius, Ornella, Antso)__
 * 6:30-7:30pm: Dinner
 
 **Wed, Jan 17: “Fitting Models to Data”**
