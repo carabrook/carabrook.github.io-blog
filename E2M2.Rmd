@@ -23,6 +23,8 @@ Our teaching team is comprised of: [Matthew Bonds](http://ghsm.hms.harvard.edu/p
 
 **2018 Syllabus:**
 
+Please follow instructions for installing packages in R [here](E2M2/E2M2_InstallPackages.html).
+
 **Sat, Jan 13: (Travel)**
 
 * 6:30am: Depart from Tana (Institut Pasteur) via bus, travel to Ranomafana (lunch stop Antsirabe)
