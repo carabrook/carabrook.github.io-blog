@@ -74,7 +74,8 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 * 2:00-2:15pm: [Writing Exercise: Creating a model world to address a research question](E2M2/E2M2_Model_Framework_HW.pdf) __(HW)__ __(Cara)__
 * 2:15-2:45pm: Break
 * 2:45-4:30pm: [Exercise + Discussion: Dynamical Fever](E2M2/E2M2_Dynamical_Fever.zip) __(Mentors: Jean-Marius, Ornella, Antso)__
-* 4:30-6:30pm: Mentor research presentations __(Jean-Marius, Ornella, Antso)__
+* 4:30-6:00pm: Mid-session feedback __(Julio)__
+* 6:00 - 6:30pm: Free time
 * 6:30-7:30pm: Dinner
 
 **Wed, Jan 17: “Fitting Models to Data”**
@@ -89,7 +90,7 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 * 2:00-3:30pm: Model Telephone with Model Diagrams __(Mentors: Jean-Marius, Ornella, Antso)__
 * 3:30-4:00pm: Break
 * 4:00-5:00pm: Lecture: PIVOT’s Role in E^2^M^2^ __(Matt)__
-* 5:00-6:30pm Mid-session feedback
+* 5:00-6:30pm: Mentor research presentations __(Jean-Marius, Ornella, Antso)__
 * 6:30-7:30pm: Dinner
 
 **Thurs, Jan 18: “Refining Your Work”**
