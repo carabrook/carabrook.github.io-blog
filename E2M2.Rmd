@@ -82,11 +82,11 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 
 * 6:30-8:00am: Breakfast
 * 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
-* 8:30-9:30am: [Lecture/Tutorial: Model Fitting in Practice – the Basic Concept](E2M2/E2M2_Model_Fitting_Basic_Concept.zip) __(Cara)__
+* 8:30-10:00am: Lecture/Tutorial: Model Fitting in Practice – the Basic Concept __(Cara)__
 * 9:30-10:00am: Break
 * 10:00-12:00am: [Exercise/Tutorial: Epidemics Cards](E2M2/E2M2_Epidemic_Cards.zip) __(Cara + Amy)__
 * 12:00-1:00pm: Lunch
-* 1:00pm-2:00pm: Lecture: Alternative Approaches to Model Fitting __(Andres)__
+* 1:00pm-2:00pm: Tutorial : Model Fitting with Epidemic Cards (continued) __(Cara)__
 * 2:00-3:30pm: Model Telephone with Model Diagrams __(Mentors: Jean-Marius, Ornella, Antso)__
 * 3:30-4:00pm: Break
 * 4:00-5:00pm: Lecture: PIVOT’s Role in E^2^M^2^ __(Matt)__
