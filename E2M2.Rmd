@@ -89,7 +89,7 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 * 1:00pm-2:00pm: Tutorial: Model Fitting with Epidemic Cards (continued from above) __(Cara)__
 * 2:00-3:30pm: Model Telephone with Model Diagrams __(Mentors: Jean-Marius, Ornella, Antso)__
 * 3:30-4:00pm: Break
-* 4:00-5:00pm: Lecture: PIVOT’s Role in E^2^M^2^ __(Matt)__
+* 4:00-5:00pm: Lecture: PIVOT’s Role in E^2^M^2^ __(Andres)__
 * 5:00-6:30pm: Mentor research presentations __(Jean-Marius, Ornella, Antso)__
 * 6:30-7:30pm: Dinner
 
