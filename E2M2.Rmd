@@ -82,7 +82,7 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 
 * 6:30-8:00am: Breakfast
 * 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
-* 8:30-10:30am: Lecture/Tutorial: Model Fitting in Practice – the Basic Concept __(Cara)__
+* 8:30-10:30am: [Lecture/Tutorial: Model Fitting in Practice – the Basic Concept](E2M2/E2M2_Model_Fitting_Basic_Concept.zip) __(Cara)__
 * 10:00-10:30am: Break
 * 10:30-12:00pm: [Exercise: Epidemics Cards](E2M2/E2M2_Epidemic_Cards.zip) __(Cara + Amy)__
 * 12:00-1:00pm: Lunch
@@ -107,7 +107,7 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 * 4:00-4:30pm: Break
 * 4:30-6:30pm: Work time + one-on-one mentoring sessions __(all)__
 * 6:30-7:30pm: Dinner
-* *-00-10:00pm: Night hike: Ranomafana National Park
+* 8-00-10:00pm: Night hike: Ranomafana National Park
 
 **Fri, Jan 19: “Putting it all in Perspective”**
 
