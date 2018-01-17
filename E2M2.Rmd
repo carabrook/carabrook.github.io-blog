@@ -96,11 +96,11 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 **Thurs, Jan 18: “Refining Your Work”**
 
 * 6:30-8:00am: Breakfast
-* 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
-* 8:30-9:30am:  Lecture: Modeling Extensions – Metapopulation Theory, Incorporating Heterogeneity, etc. __(Tanjona)__
-* 9:30-10:00am: Break
-* 10:00-11:30am: Lecture/Tutorial: Introduction to Network Modeling __(Fidy)__
-* 11:30am-12:00pm: [Final research plans](E2M2/E2M2_Final-Research-Plan.pdf) __(HW)__ __(Cara)__
+* 8:00-8:15am: Road Map and Daily Agenda __(Cara)__
+* 8:15-9:45am: Lecture/Tutorial: Introduction to Network Modeling __(Fidy)__
+* 9:45-10:15am: Break
+* 10:15-11:45am: [Lecture/Tutorial: Introduction to Model Evaluation and Comparison](E2M2/E2M2_Intro_to_Model_Evaluation_and_Comparison.zip) __(Jess)__
+* 11:45am-12:00pm: [Final research plans](E2M2/E2M2-Final-Research-Plan.pdf) __(HW)__ __(Cara)__
 * 12:00pm-1:00pm: Lunch
 * 1:00pm-3:00pm: Lecture/Tutorial: [Introduction to Spatial Modeling](E2M2/E2M2_Introduction_to_Spatial_Modeling.zip) __(Amy)__
 * 3:00-4:00pm: Discussion of a [scientific paper](E2M2/E2M2_Readings.zip) __(Tanjona + Mentors: Jean-Marius, Ornella, Antso)__
@@ -112,10 +112,10 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 **Fri, Jan 19: “Putting it all in Perspective”**
 
 * 6:30-8:00am: Breakfast
-* 8:00-8:30am: Road Map and Daily Agenda __(Cara)__
-* 8:30-9:30am: Lecture: Model Evaluation and Comparison __(Jess)__
+* 8:00-8:15am: Road Map and Daily Agenda __(Cara)__
+* 8:15-9:30am:  Lecture: Modeling Extensions – Spatial mechanistic models __(Tanjona)__
 * 9:30-10:00am: Break
-* 10:00am-11:30am: [Tutorial: Model Selection with Age-Prevalence Data](E2M2/E2M2_Rodent-Age-Prevalence.zip) __(Cara)__
+* 10:00am-11:30am: Tutorial: Model Fitting and Comparison __(Cara)__
 * 12:00-1:00pm: Lunch
 * 1:00-2:00pm: Lecture: Modeling in Practice: The Life Cycle of a Modeling Project, from Conception to Publication __(Andres)__
 * 2:00-3:00pm: Lecture: Looking back: How far have we come? __(Tanjona)__
