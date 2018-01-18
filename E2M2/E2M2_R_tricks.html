@@ -336,6 +336,51 @@ comma.weights = as.numeric(comma.weights)
 
 ## look at the help file to explore the functions of this command and others like it further
 ?gsub</code></pre>
+<ol start="3" type="1">
+<li><strong>Correcting NAs in your data</strong></li>
+</ol>
+<ul>
+<li>You can use the following code to subset your data to include only those rows that have no NAs in any column.</li>
+</ul>
+<pre class="r"><code>## imagine you have a dataset that looks like this
+yr = c(1990, 1998, 1997, 2003, NA, 2015)
+age =c(5,4,NA,6,12,18)
+name=c(&quot;Ricky&quot;, &quot;Fenosoa&quot;, &quot;Lady&quot;, NA, &quot;Tahiana&quot;, &quot;Tsilavo&quot;)
+dat.ex = cbind.dataframe(yr, name, age)
+
+## look at your dataframe. you have an NA in column 1/row 5, column 2/row 4, and column 3/row3. the function complete.cases will help you subset your data to include only those rows of data which have no NAs
+
+dat.ex.new = dat.ex[complete.cases(dat.ex),]
+
+##look at your new data frame:
+
+dat.ex.new
+
+## there are no longer any NAs, but be careful! if you were only interested in analyzing your columns for yr and age, you just eliminated a row (row 4) that had all the information you needed. this function will only take rows for which ALL information is complete.</code></pre>
+<ol start="4" type="1">
+<li><strong>Plotting a single shape area</strong></li>
+</ol>
+<ul>
+<li>Warning! This code will only run in the same working directory as Amy’s Intro to Spatial Modeling tutorial. This tells you how to plot a singe shape area within a larger shapefile</li>
+</ul>
+<pre class="r"><code>## load your required libraries
+library(maptools)
+library(rgeos)
+
+## read in the entire districts of Madagascar shapefil
+mdg_admin2_shp&lt;-readShapePoly('MDG_Shp/MDG_adm2.shp', proj4string = CRS('+proj=longlat'))
+
+## select a subset that only includes the district named &quot;Sava&quot;
+subset_shp_file&lt;-mdg_admin2_shp[which(mdg_admin2_shp$NAME_2 == 'Sava'),]
+
+## plot all of Madagascar
+plot(mdg_admin2_shp)
+
+## plot the Sava district on top of all of Madagascar and color it blue
+plot(subset_shp_file, col = 'blue', add = TRUE)
+
+## plot just the Sava district on its own
+plot(subset_shp_file)</code></pre>
 
 
 
