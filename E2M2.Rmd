@@ -116,7 +116,7 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 * 6:30-8:00am: Breakfast
 * 7:00-8:00am: Mentoring as needed
 * 8:00-8:15am: Road Map and Daily Agenda __(Cara)__
-* 8:15-9:30am: Research Snapshots __(all)__  
+* 8:15-9:30am: [Research Snapshots](E2M2/E2M2_ResearchSnapshots.zip) __(all)__  
 * 9:30am-10:30am: Discussion of a [scientific paper](E2M2/E2M2_Readings.zip) __(Tanjona + Mentors: Jean-Marius, Ornella, Antso)__
 * 10:30-11:00am: Break
 * 11:00-11:50pm: Lecture: Modeling in Practice: The Life Cycle of a Modeling Project, from Conception to Publication __(Andres)__
