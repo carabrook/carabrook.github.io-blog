@@ -119,7 +119,8 @@ Follow along with R tricks posted through the week [here](E2M2/E2M2_R_tricks.htm
 * 8:15-9:30am: Research Snapshots __(all)__  
 * 9:30am-10:30am: Discussion of a [scientific paper](E2M2/E2M2_Readings.zip) __(Tanjona + Mentors: Jean-Marius, Ornella, Antso)__
 * 10:30-11:00am: Break
-* 11:00-12:00pm: Lecture: Modeling in Practice: The Life Cycle of a Modeling Project, from Conception to Publication __(Andres)__
+* 11:00-11:50pm: Lecture: Modeling in Practice: The Life Cycle of a Modeling Project, from Conception to Publication __(Andres)__
+* 11:50-12:00pm: Group photo
 * 12:00-1:00pm: Lunch
 * 1:00-2:00pm: Lecture: Looking back: How far have we come? __(Tanjona)__
 * 2:00-3:00pm: Research plan work time + mentoring as needed __(all)__
