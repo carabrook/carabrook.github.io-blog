@@ -15,7 +15,7 @@ output:
 
 - **Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud J-M, Peel AJ, Gibson L, Wood JLN, Metcalf CJE\*, and Dobson AP\*. In Review. Deciphering serology to elucidate transmission: Evidence of waning immunity and diminished survivorship in filo- and henipavirus seropositive Madagascar fruit bats. PLoS Biology. \*=equal senior contributions.
 
-- **Brook CE**, Herrera JP, Borgerson C, Fuller E, Andriamahazoarivosoa P, Rasolofoniaina BJR, Randrianasolo JLRR, Rakotondrafarasata ZRE, Randriamady HJ, Dobson AP, Golden CD. In Review. Population viability and harvest sustainability for Madagascar lemurs. Conservation Biology.
+- **Brook CE**, Herrera JP, Borgerson C, Fuller E, Andriamahazoarivosoa P, Rasolofoniaina BJR, Randrianasolo JLRR, Rakotondrafarasata ZRE, Randriamady HJ, Dobson AP, and Golden CD. In Review. Population viability and harvest sustainability for Madagascar lemurs. Conservation Biology.
 
 <div style="text-align: left; font-size: 1.4em;">
 **2017**
@@ -27,7 +27,7 @@ output:
 **2016**
 </div>
 
-- Wesolowski A\*, Mensah K\*, **Brook CE**\*, Andrianjafimasy M, Winter A, Buckee CO, Razafindratsimendresy R, Tatem AJ, Heraud J-M\*\*, Metcalf CJE. 2016\*\*. Introduction of Rubella-Containing-Vaccine to Madagascar: Implications for roll-out and local elimination across low-income countries. Journal of the Royal Society Interface. 13(177): 20151101. \* =  equal lead contributions; \*\*=equal senior contributions. doi:10.1098/rsif.2015.110.
+- Wesolowski A\*, Mensah K\*, **Brook CE**\*, Andrianjafimasy M, Winter A, Buckee CO, Razafindratsimendresy R, Tatem AJ, Heraud J-M\*\*, and Metcalf CJE. 2016\*\*. Introduction of Rubella-Containing-Vaccine to Madagascar: Implications for roll-out and local elimination across low-income countries. Journal of the Royal Society Interface. 13(177): 20151101. \* =  equal lead contributions; \*\*=equal senior contributions. doi:10.1098/rsif.2015.110.
 
 <div style="text-align: left; font-size: 1.4em;">
 **2015**
