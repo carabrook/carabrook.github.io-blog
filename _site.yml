@@ -19,3 +19,6 @@ navbar:
 output:
   html_document:
     css: style.css
+
+plugins:
+  - jekyll-seo-tag
