@@ -10,7 +10,7 @@ output:
 
 <br>
 <div style="text-align: left; font-size: 1.4em;">
-**In Review**
+**In Revision**
 </div>
 
 - **Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud J-M, Peel AJ, Gibson L, Wood JLN, Metcalf CJE\*, and Dobson AP\*. In Review. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. PLoS Biology. \*=equal senior contributions.
