@@ -10,6 +10,11 @@ output:
 
 <br>
 <div style="text-align: left; font-size: 1.4em;">
+<a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a></div>
+
+<br>
+
+<div style="text-align: left; font-size: 1.4em;">
 **In Review**
 </div>
 
