@@ -25,9 +25,9 @@ output:
 **2019**
 </div>
 
-- **Brook CE**, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. In Press. Population trends for two Malagasy fruit bats. Biological Conservation.
-
 - **Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE\*, and Dobson AP\*. In Press. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. Journal of Animal Ecology. \*=equal senior contributions.
+
+- **Brook CE**, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. Biological Conservation. 234: 165-171. doi: [10.1016/j.biocon.2019.03.032](https://doi.org/10.1016/j.biocon.2019.03.032)
 
 -	Ranaivoson HC, Héraud JM, Goethert HK, Telford SR, Rabetafika L\* and **Brook CE**\*. Babesial infection in the Madagascan flying fox, *Pteropus rufus* É. Geoffroy, 1803. 2019. Parasites & Vectors. 12(51): 1307101933. doi:  [10.1186/s13071-019-3300-7](https://doi.org/10.1186/s13071-019-3300-7). \*=equal senior contributions
 
