@@ -1,8 +1,17 @@
-<br>
-<div style="text-align: left; font-size: 2.3em;">
-**Research**
-</div>
+---
+title: "**Research**"
+output:
+  html_document: default
+  pdf_document: default
+---
 
+<style type="text/css">
+h1.title {
+  font-size: 31px;
+  text-align: left;
+  color:black;
+}
+</style>
 <div style="text-align: left; font-size: 1.4em;">
 **Bats as reservoirs for emerging zoonotic disease**
 </div>
