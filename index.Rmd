@@ -9,20 +9,19 @@ output:
 h1.title {
   font-size: 31px;
   text-align: left;
-  padding-left: 10px;
   color:black;
 }
 </style>
-<img src="UCBerkeley_seal.png" alt="seal" style="width: 100px; padding-right=600px;" align="right">
+<img src="UCBerkeley_seal.png" alt="seal" style="width: 120px; padding-right=600px;" align="right">
 <div id="bg_image"> 
-<div style="text-align: left; font-size: 1.4em; padding-left: 10px;">
+<div style="text-align: left; font-size: 1.4em;">
 cbrook(at)berkeley.edu <br>
 [Miller Postdoctoral Fellow](http://miller.berkeley.edu/about)<br>
 Department of Integrative Biology<br>
 Department of Plant and Microbiology<br>
 University of California, Berkeley<br>
 <br>
-<img src="IMGP8459crop.jpg" alt="baobabs" style="width: 100%; height: 100%" align="center">
+<img src="IMGP8459crop.jpg" alt="baobabs" style="width: 100%; height: 100%" align="left">
 </div>
 <div id="contents">
 <br>
