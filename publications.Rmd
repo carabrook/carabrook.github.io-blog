@@ -20,10 +20,12 @@ h1.title {
 <br>
 
 <div style="text-align: left; font-size: 1.4em;">
-**In Revision**
+**In Review/Revision**
 </div>
 
-- Guth S, Visher E, Boots M\*, and **Brook CE\* **. In Revision. Host phylogenetic distance drives trends in virulence and transmissibility across the animal-human interface. Philosophical Transactions of the Royal Society.  \*=equal senior contributions.
+-	**Brook CE**, Ng M, Boots M, Dobson A, Graham A, Grenfell B, Chandran KC, van Leeuwen A. Submitted. From within-host persistence to zoonotic emergence: Understanding bats as viral reservoirs. PNAS.
+
+- Guth S, Visher E, Boots M\*, and **Brook CE\*. **In Revision. Host phylogenetic distance drives trends in virulence and transmissibility across the animal-human interface. Philosophical Transactions of the Royal Society.  \*=equal senior contributions.
 
 
 <div style="text-align: left; font-size: 1.4em;">
