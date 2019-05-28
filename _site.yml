@@ -15,6 +15,10 @@ navbar:
       href: https://carabrook.github.io/E2M2
     - text: "Bio"
       href: about.html
+    - text: "Team"
+      href: team.html
+    - text: "Opportunities"
+      href: opportunities.html
     - text: "Blog"
       href: https://carabrook.github.io/blog
       
