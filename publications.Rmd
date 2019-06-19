@@ -23,9 +23,9 @@ h1.title {
 **In Review/Revision**
 </div>
 
--	**Brook CE**, Ng M, Boots M, Dobson A, Graham A, Grenfell B, Chandran KC, van Leeuwen A. Submitted. Within-host dynamics of virulent viruses in bat reservoirs for emerging zoonotic disease. eLife.
+-	**Brook CE**, Ng M, Boots M, Dobson A, Graham A, Grenfell B, Chandran KC, van Leeuwen A. In Review. Within-host dynamics of virulent viruses in bat reservoirs for emerging zoonotic disease. eLife.
 
-- Guth S, Visher E, Boots M\*, and **Brook CE\*. **In Revision. Host phylogenetic distance drives trends in virulence and transmissibility across the animal-human interface. Philosophical Transactions of the Royal Society.  \*=equal senior contributions.
+- Guth S, Visher E, Boots M\*, and **Brook CE\*. **In Revision. Host phylogenetic distance drives trends in viral virulence and transmissibility across the animal-human interface. Philosophical Transactions of the Royal Society.  \*=equal senior contributions.
 
 
 <div style="text-align: left; font-size: 1.4em;">
