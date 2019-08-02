@@ -20,17 +20,17 @@ h1.title {
 <br>
 
 <div style="text-align: left; font-size: 1.4em;">
-**In Review/Revision**
+**In Review**
 </div>
 
--	**Brook CE**, Ng M, Boots M, Dobson A, Graham A, Grenfell B, Chandran KC, van Leeuwen A. In Review. Within-host dynamics of virulent viruses in bat reservoirs for emerging zoonotic disease. eLife.
-
-- Guth S, Visher E, Boots M\*, and **Brook CE\*. **In Revision. Host phylogenetic distance drives trends in viral virulence and transmissibility across the animal-human interface. Philosophical Transactions of the Royal Society.  \*=equal senior contributions.
+-	**Brook CE**, Ng M, Boots M, Dobson A, Graham A, Grenfell B, Chandran KC, van Leeuwen A. In Review. Within-host dynamics of virulent viruses in bat reservoirs for emerging zoonotic disease. eLife. doi (preprint): [10.1101/696195](https://doi.org/10.1101/696195).
 
 
 <div style="text-align: left; font-size: 1.4em;">
 **2019**
 </div>
+
+- Guth S, Visher E, Boots M, and **Brook CE.** In Press. Host phylogenetic distance drives trends in viral virulence and transmissibility across the animal-human interface. Philosophical Transactions of the Royal Society. 
 
 - **Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE\*, and Dobson AP\*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. Journal of Animal Ecology. Early View. doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). \*=equal senior contributions. *Profiled in JAE blog [here](https://animalecologyinfocus.com/2019/04/16/disentangling-disease-transmission-in-madagascar-fruit-bats/).*
 

@@ -69,9 +69,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -96,6 +94,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -110,7 +111,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -130,6 +130,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -151,19 +188,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -234,16 +337,16 @@ h1.title {
 </div>
 <p><br></p>
 <div style="text-align: left; font-size: 1.4em;">
-<p><strong>In Review/Revision</strong></p>
+<p><strong>In Review</strong></p>
 </div>
 <ul>
-<li><p><strong>Brook CE</strong>, Ng M, Boots M, Dobson A, Graham A, Grenfell B, Chandran KC, van Leeuwen A. In Review. Within-host dynamics of virulent viruses in bat reservoirs for emerging zoonotic disease. eLife.</p></li>
-<li><p>Guth S, Visher E, Boots M*, and <strong>Brook CE*. </strong>In Revision. Host phylogenetic distance drives trends in viral virulence and transmissibility across the animal-human interface. Philosophical Transactions of the Royal Society. *=equal senior contributions.</p></li>
+<li><strong>Brook CE</strong>, Ng M, Boots M, Dobson A, Graham A, Grenfell B, Chandran KC, van Leeuwen A. In Review. Within-host dynamics of virulent viruses in bat reservoirs for emerging zoonotic disease. eLife. doi (preprint): <a href="https://doi.org/10.1101/696195">10.1101/696195</a>.</li>
 </ul>
 <div style="text-align: left; font-size: 1.4em;">
 <p><strong>2019</strong></p>
 </div>
 <ul>
+<li><p>Guth S, Visher E, Boots M, and <strong>Brook CE.</strong> In Press. Host phylogenetic distance drives trends in viral virulence and transmissibility across the animal-human interface. Philosophical Transactions of the Royal Society.</p></li>
 <li><p><strong>Brook CE</strong>, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE*, and Dobson AP*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. Journal of Animal Ecology. Early View. doi: <a href="https://doi.org/10.1111/1365-2656.12985">10.1111/1365-2656.12985</a>. *=equal senior contributions. <em>Profiled in JAE blog <a href="https://animalecologyinfocus.com/2019/04/16/disentangling-disease-transmission-in-madagascar-fruit-bats/">here</a>.</em></p></li>
 <li><p><strong>Brook CE</strong>, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. Biological Conservation. 234: 165-171. doi: <a href="https://doi.org/10.1016/j.biocon.2019.03.032">10.1016/j.biocon.2019.03.032</a>.</p></li>
 <li><p>Ranaivoson HC, Héraud JM, Goethert HK, Telford SR, Rabetafika L* and <strong>Brook CE</strong>*. Babesial infection in the Madagascan flying fox, <em>Pteropus rufus</em> É. Geoffroy, 1803. 2019. Parasites &amp; Vectors. 12(51): 1307101933. doi: <a href="https://doi.org/10.1186/s13071-019-3300-7">10.1186/s13071-019-3300-7</a>. *=equal senior contributions</p></li>
