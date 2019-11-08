@@ -20,9 +20,9 @@ h1.title {
 <br>
 
 <div style="text-align: left; font-size: 1.4em;">
-**In Revision**
+**In Revision/In Press**
 </div>
--	**Brook CE**. In Revision. A batty concept goes viral. Nature Ecology & Evolution.
+-	**Brook CE**. In Press. A batty concept goes viral. Nature Ecology & Evolution.
 
 -	**Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang L-F, and van Leeuwen A. In Revision. Within-host dynamics of virulent viruses in bat reservoirs for emerging zoonotic disease. eLife. doi (preprint): [10.1101/696195](https://doi.org/10.1101/696195).
 
