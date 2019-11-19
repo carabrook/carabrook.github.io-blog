@@ -20,9 +20,8 @@ h1.title {
 <br>
 
 <div style="text-align: left; font-size: 1.4em;">
-**In Revision/In Press**
+**In Revision**
 </div>
--	**Brook CE**. In Press. A batty concept goes viral. Nature Ecology & Evolution.
 
 -	**Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang L-F, and van Leeuwen A. In Revision. Within-host dynamics of virulent viruses in bat reservoirs for emerging zoonotic disease. eLife. doi (preprint): [10.1101/696195](https://doi.org/10.1101/696195).
 
@@ -30,6 +29,8 @@ h1.title {
 <div style="text-align: left; font-size: 1.4em;">
 **2019**
 </div>
+
+-	**Brook CE**. 2019. A batty concept goes viral. Nature Ecology & Evolution. doi: [10.1038/s41559-019-1045-5](https://www.nature.com/articles/s41559-019-1045-5).
 
 - Guth S, Visher E, Boots M, and **Brook CE.** 2019. Host phylogenetic distance drives trends in virus virulence and transmissibility across the animal-human interface. Philosophical Transactions of the Royal Society. 374(1782): 20190296. doi: [10.1098/rstb.2019.0296](https://doi.org/10.1098/rstb.2019.0296).
 
