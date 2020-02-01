@@ -23,7 +23,7 @@ h1.title {
 **In Revision**
 </div>
 
--	**Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang L-F, and van Leeuwen A. In Revision. The importance of cellular-scale viral dynamics in bat reservoirs for emerging zoonotic disease. eLife. doi (preprint): [10.1101/696195](https://doi.org/10.1101/696195).
+-	**Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang L-F, and van Leeuwen A. In Revision. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. eLife. doi (preprint): [10.1101/696195](https://doi.org/10.1101/696195).
 
 
 <div style="text-align: left; font-size: 1.4em;">
