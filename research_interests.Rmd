@@ -48,16 +48,16 @@ Classic epidemiological modeling explores the dynamics of perfectly immunizing c
 <div style="text-align: left; font-size: 1.4em;">
 **Within-host: How do unique bat immune strategies affect population-level viral transmission?**
 </div>
-<img src="bat_cell_model.png" alt="bat_cell" style="height: 300px; padding-right: 10px;" align="left"><div style="text-align: left; font-size: 1.2em; padding-right=100px">Recent work has demonstrated that some species of Old World Fruit Bat constitutively express the cytokine, Interferon-alpha, meaning that they have perpetually-primed antiviral immune systems ([Zhou et al. 2016](http://www.pnas.org/content/113/10/2696)). This unique immunity likely plays a role in bats' capacities to resist or tolerate viral infections that cause extreme virulence in other mammalian hosts. As a graduate student, I studied the dynamics of bat viruses *in vitro*, modeling the spread of infection across a monolayer of bat cells under differing assumptions of innate antiviral immune status. We found that resident infections established under constitutive immune assumptions generated parameter estimates for within-host viral propagation rates a full order of magnitude higher than those estimated under conventional, induced immune assumptions. Such findings suggest that viruses evolved in perpetually antiviral immune systems--like those demonstrated for bats--may achieve elevated replication rates likely to cause extreme pathology upon emergence into a host lacking constitutive immune defenses.
+<img src="PaKi_EBOV_induced_10K_200hrs_CELL.gif" alt="bat_cell" style="height: 300px; padding-right: 10px;" align="left"><div style="text-align: left; font-size: 1.2em; padding-right=100px">Recent work has demonstrated that some species of Old World Fruit Bat constitutively express the cytokine, Interferon-alpha, meaning that they have perpetually-primed antiviral immune systems ([Zhou et al. 2016](http://www.pnas.org/content/113/10/2696)). This unique immunity likely plays a role in bats' capacities to resist or tolerate viral infections that cause extreme virulence in other mammalian hosts. In collaboration with Albert Einstein College of Medicine, I studied the dynamics of bat viruses *in vitro*, modeling the spread of infection across a monolayer of bat cells under differing assumptions of innate antiviral immune status. We found that infections established under robust antiviral conditions in bat cell lines generated parameter estimates for within-host viral propagation rates a full order of magnitude higher than those estimated in the absent of an effect for immunity. Such findings suggest that viruses evolved in highly antiviral immune systems--like those demonstrated for bats--may achieve elevated replication rates likely to cause extreme pathology upon emergence into a host lacking constitutive immune defenses.
 <br>
 <br>
-As a Miller Fellow, I am exploring the impact of a generalist anti-viral immune systems on the evolution of viral virulence, using a theoretical, adaptive dynamics approach.
+As a Miller Fellow, I am further exploring the impact of a generalist anti-viral immune systems on the evolution of viral virulence, using a theoretical, adaptive dynamics approach.
 </div>
 
 ---
 
 <div style="text-align: left; font-size: 1em;">
-**Brook CE**, Ng M, Boots M, Dobson A, Graham A, Grenfell B, Chandran KC, van Leeuwen A. In Revision. Within-host dynamics of virulent viruses in bat reservoirs for emerging zoonotic disease. eLife. doi (preprint): [10.1101/696195](https://doi.org/10.1101/696195).
+**Brook CE**, Ng M, Boots M, Dobson A, Graham A, Grenfell B, Chandran KC, van Leeuwen A. In Press. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. eLife. doi (preprint): [10.1101/696195](https://doi.org/10.1101/696195).
 </div>
 
 ---
