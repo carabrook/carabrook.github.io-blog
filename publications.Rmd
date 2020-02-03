@@ -23,7 +23,7 @@ h1.title {
 **2020**
 </div>
 
--	**Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang L-F, and van Leeuwen A. In Press. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. eLife. doi (preprint): [10.1101/696195](https://doi.org/10.1101/696195).
+-	**Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. eLife. doi: [10.7554/eLife.48401](https://elifesciences.org/articles/48401).
 
 
 <div style="text-align: left; font-size: 1.4em;">
