@@ -12,13 +12,14 @@ h1.title {
   color:black;
 }
 </style>
+
+
 <div style="text-align: left; font-size: 1.4em;">
 **Bats as reservoirs for emerging viral zoonoses**
 </div>
 <img src="flying_bat.png" alt="bat" style="height: 300px; padding-right: 10px;" align="left"><div style="text-align: left; font-size: 1.2em; padding-right=100px">Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses, including Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS and MERS coronaviruses. Bats appear to host these viruses without experiencing extensive morbidity or mortality, leading researchers to ask whether bats might be uniquely adapted for their roles as pathogen hosts. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections ([Zhang et al. 2013](https://science.sciencemag.org/content/339/6118/456), [Pavlovich et al. 2018](https://www.sciencedirect.com/science/article/pii/S0092867418304021), [Xie et al. 2018](https://www.sciencedirect.com/science/article/pii/S1931312818300416)). I bridge field ecology, cellular immunology, and quantitative epidemiology to investigate both **population-level** and **within-host** questions related to this research theme. The fitting of dynamic models to time series data represents an underlying theme in my work. I derive data from a variety of laboratory and field sources, with a particular focus on viral infections in Madagascar fruit bats. 
 </div>
 
----
 
 <div style="text-align: left; font-size: 1em;">
 
@@ -46,7 +47,7 @@ Classic epidemiological modeling explores the dynamics of perfectly immunizing c
 
 
 <div style="text-align: left; font-size: 1.4em;">
-**Within-host: How do unique bat immune strategies affect population-level viral transmission?**
+**Within-host: Why are bat viruses so virulent?**
 </div>
 <img src="PaKi_EBOV_induced_10K_200hrs_CELL.gif" alt="bat_cell" style="height: 300px; padding-right: 10px;" align="left"><div style="text-align: left; font-size: 1.2em; padding-right=100px">Recent work has demonstrated that some species of Old World Fruit Bat constitutively express the cytokine, Interferon-alpha, meaning that they have perpetually-primed antiviral immune systems ([Zhou et al. 2016](http://www.pnas.org/content/113/10/2696)). This unique immunity likely plays a role in bats' capacities to resist or tolerate viral infections that cause extreme virulence in other mammalian hosts. In collaboration with Albert Einstein College of Medicine, I studied the dynamics of bat viruses *in vitro*, modeling the spread of infection across a monolayer of bat cells under differing assumptions of innate antiviral immune status. We found that infections established under robust antiviral conditions in bat cell lines generated parameter estimates for within-host viral propagation rates a full order of magnitude higher than those estimated in the absent of an effect for immunity. Such findings suggest that viruses evolved in highly antiviral immune systems--like those demonstrated for bats--may achieve elevated replication rates likely to cause extreme pathology upon emergence into a host lacking constitutive immune defenses. As a Miller Fellow, I am further exploring the impact of a generalist anti-viral immune systems on the evolution of viral virulence, using a theoretical, adaptive dynamics approach.
 </div>
@@ -55,7 +56,15 @@ Classic epidemiological modeling explores the dynamics of perfectly immunizing c
 
 <div style="text-align: left; font-size: 1em;">
 **Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. eLife. doi: [10.7554/eLife.48401](https://elifesciences.org/articles/48401).
+
 </div>
+
+<div style="text-align: left; font-size: 1em;">
+*Watch the the National Science Foundation's '4 Awesome Discoveries' video summary of our eLife paper here:*
+</div>
+
+
+<iframe width="350" height="280" src="https://www.youtube.com/embed/y5_g_pjf0eE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

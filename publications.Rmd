@@ -24,6 +24,8 @@ h1.title {
 </div>
 
 -	**Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. eLife. doi: [10.7554/eLife.48401](https://elifesciences.org/articles/48401).
+    - Profiled in the National Science Foundation's '4 Awesome Discoveries' video series [here](https://www.youtube.com/watch?v=y5_g_pjf0eE&feature=youtu.be).
+    - Covered in [Science News](https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people), [Berkeley News](https://news.berkeley.edu/2020/02/10/coronavirus-outbreak-raises-question-why-are-bat-viruses-so-deadly/), the [Daily Cal](https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people)
 
 
 <div style="text-align: left; font-size: 1.4em;">
