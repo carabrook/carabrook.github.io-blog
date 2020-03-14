@@ -12,7 +12,7 @@ h1.title {
   color:black;
 }
 </style>
-<img src="UCBerkeley_seal.png" alt="seal" style="width: 120px; padding-right=600px;" align="right">
+<img src="UCBerkeley_seal.png" alt="seal" style="width: 120px; padding-right=1000px;" align="right">
 <div id="bg_image"> 
 <div style="text-align: left; font-size: 1.4em;">
 cbrook(at)berkeley.edu <br>
@@ -21,13 +21,39 @@ Department of Integrative Biology<br>
 Department of Plant and Microbiology<br>
 University of California, Berkeley<br>
 <br>
-<img src="IMGP8459crop.jpg" alt="baobabs" style="width: 100%; height: 100%" align="left">
+<img src="IMGP8459crop.jpg" alt="baobabs" style="width: 80%; height: 80%" align="left">
 </div>
-<div id="contents">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
+---
 
 
+
+</div>
+*Watch a short video summary of my research and outreach here (click image):*
+
+[![Bats and Viruses in Madagascar](https://img.youtube.com/vi/8AMpIQ9gTbE/0.jpg)](https://www.youtube.com/embed/8AMpIQ9gTbE "Bats and Viruses in Madagascar")
+
+</div>
+
+
+---
 
 
 
