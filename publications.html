@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +83,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -232,6 +231,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -243,18 +243,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -337,13 +325,20 @@ h1.title {
 </div>
 <p><br></p>
 <div style="text-align: left; font-size: 1.4em;">
+<p><strong>In Review/Revision</strong></p>
+</div>
+<ul>
+<li><p>Olival KJ*, Cryan PM*, Amman BR, Baric RS, Blehert DS, <strong>Brook CE</strong>, Calisher CH, Castle KT, Coleman JTH, Daszak P, Epstein JH, Field H, Frick WF, Gilbert AT, Hayman DTS, Ip HS, Karesh WB, Johnson CK, Kading RK, Kingston T, Lorch JM, Mendendall IH, Peel AJ, Phelps KL, Plowright RK, Reeder DM, Reichard JD, Sleeman JM, Streicker DG, Towner JS, and Wang L-F. In Review. Possible risks of SARS-CoV-2 spillover to free-ranging wildlife: a case study of bats. PNAS. *=equal contributions</p></li>
+<li><p>Amen AM, Barry KW, Boyle JM, <strong>Brook CE</strong>, Choo S, Cornmesser LT, Dilworth DJ, Doudna JA*, Ehrenberg AJ, Fedrigo I, Friedline SE, Graham TGW, Green R, Hamilton JR, Hirsh A, Hochstrasser ML, Hockemeyer D*, Krishnappa N, Lari A, Li H, Lin-Shiao E, Lu T, Lyons EF, Mark KG, Martell LA, Martins ARO, McDevitt SL, Mitchell PS, Moehle EA, Naca CL, Nandakumar D, O’Brien E, Pappas DJ, Pestal K, Quach DL, Rubin BE, Sachdeva R, Stahl EC, Syed AM, Tan I-L, Tollner AL, Tsuchida CA, Tsui CK, Turkalo TK, Urnov F*, Warf MB, Whitney ON, Witkowsky LB. In Review. Blueprint for a Pop-up SARS-CoV-2 Testing Lab. Nature Biotechnology. doi: <a href="https://doi.org/10.1101/2020.04.11.20061424">10.1101/ 2020.04.11.20061424</a> (pre-print)</p></li>
+</ul>
+<div style="text-align: left; font-size: 1.4em;">
 <p><strong>2020</strong></p>
 </div>
 <ul>
 <li><strong>Brook CE</strong>, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. eLife. doi: <a href="https://elifesciences.org/articles/48401">10.7554/eLife.48401</a>.
 <ul>
 <li>Profiled in the National Science Foundation’s ‘4 Awesome Discoveries’ video series <a href="https://www.youtube.com/watch?v=y5_g_pjf0eE&amp;feature=youtu.be">here</a>.</li>
-<li>Covered in <a href="https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people">Science News</a>, <a href="https://news.berkeley.edu/2020/02/10/coronavirus-outbreak-raises-question-why-are-bat-viruses-so-deadly/">Berkeley News</a>, the <a href="https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people">Daily Cal</a></li>
+<li>Covered in <a href="https://www.economist.com/science-and-technology/2020/04/18/bats-spread-viruses">The Economist</a>, <a href="https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people">Science News</a>, <a href="https://news.berkeley.edu/2020/02/10/coronavirus-outbreak-raises-question-why-are-bat-viruses-so-deadly/">Berkeley News</a>, the <a href="https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people">Daily Cal</a></li>
 </ul></li>
 </ul>
 <div style="text-align: left; font-size: 1.4em;">
@@ -409,6 +404,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

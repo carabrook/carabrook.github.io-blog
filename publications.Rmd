@@ -20,12 +20,21 @@ h1.title {
 <br>
 
 <div style="text-align: left; font-size: 1.4em;">
+**In Review/Revision**
+</div>
+
+- Olival KJ\*, Cryan PM\*, Amman BR, Baric RS, Blehert DS, **Brook CE**, Calisher CH, Castle KT, Coleman JTH, Daszak P, Epstein JH, Field H, Frick WF, Gilbert AT, Hayman DTS, Ip HS, Karesh WB, Johnson CK, Kading RK, Kingston T, Lorch JM, Mendendall IH, Peel AJ, Phelps KL, Plowright RK, Reeder DM, Reichard JD, Sleeman JM, Streicker DG, Towner JS, and Wang L-F. In Review. Possible risks of SARS-CoV-2 spillover to free-ranging wildlife: a case study of bats. PNAS. \*=equal contributions
+
+- Amen AM, Barry KW, Boyle JM, **Brook CE**, Choo S, Cornmesser LT, Dilworth DJ, Doudna JA\*, Ehrenberg AJ, Fedrigo I, Friedline SE, Graham TGW, Green R, Hamilton JR, Hirsh A, Hochstrasser ML, Hockemeyer D\*, Krishnappa N, Lari A, Li H, Lin-Shiao E, Lu T, Lyons EF, Mark KG, Martell LA, Martins ARO, McDevitt SL, Mitchell PS, Moehle EA, Naca CL, Nandakumar D, O’Brien E, Pappas DJ, Pestal K, Quach DL, Rubin BE, Sachdeva R, Stahl EC, Syed AM, Tan I-L, Tollner AL, Tsuchida CA, Tsui CK, Turkalo TK, Urnov F\*, Warf MB, Whitney ON, Witkowsky LB. In Review. Blueprint for a Pop-up SARS-CoV-2 Testing Lab. Nature Biotechnology. doi: [10.1101/ 2020.04.11.20061424](https://doi.org/10.1101/2020.04.11.20061424) (pre-print) 		
+
+
+<div style="text-align: left; font-size: 1.4em;">
 **2020**
 </div>
 
 -	**Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. eLife. doi: [10.7554/eLife.48401](https://elifesciences.org/articles/48401).
     - Profiled in the National Science Foundation's '4 Awesome Discoveries' video series [here](https://www.youtube.com/watch?v=y5_g_pjf0eE&feature=youtu.be).
-    - Covered in [Science News](https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people), [Berkeley News](https://news.berkeley.edu/2020/02/10/coronavirus-outbreak-raises-question-why-are-bat-viruses-so-deadly/), the [Daily Cal](https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people)
+    - Covered in [The Economist](https://www.economist.com/science-and-technology/2020/04/18/bats-spread-viruses), [Science News](https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people), [Berkeley News](https://news.berkeley.edu/2020/02/10/coronavirus-outbreak-raises-question-why-are-bat-viruses-so-deadly/), the [Daily Cal](https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people)
 
 
 <div style="text-align: left; font-size: 1.4em;">
