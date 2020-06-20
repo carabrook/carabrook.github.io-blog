@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +83,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -232,6 +231,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -243,18 +243,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -302,7 +290,7 @@ $(document).ready(function () {
   <a href="opportunities.html">Opportunities</a>
 </li>
 <li>
-  <a href="https://carabrook.github.io/blog">Blog</a>
+  <a href="https://carabrook.github.io/blog">Popular Writing</a>
 </li>
 <li>
   <a href="https://carabrook.github.io/E2M2">E2M2</a>
@@ -338,6 +326,7 @@ h1.title {
 <div style="text-align: left; font-size: 1.2em; padding-right=100px">
 <p>Bats are reservoir hosts for the world’s most virulent emerging viral zoonoses, including Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS and MERS coronaviruses. Bats appear to host these viruses without experiencing extensive morbidity or mortality, leading researchers to ask whether bats might be uniquely adapted for their roles as pathogen hosts. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections (<a href="https://science.sciencemag.org/content/339/6118/456">Zhang et al. 2013</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0092867418304021">Pavlovich et al. 2018</a>, <a href="https://www.sciencedirect.com/science/article/pii/S1931312818300416">Xie et al. 2018</a>). I bridge field ecology, cellular immunology, and quantitative epidemiology to investigate both <strong>population-level</strong> and <strong>within-host</strong> questions related to this research theme. The fitting of dynamic models to time series data represents an underlying theme in my work. I derive data from a variety of laboratory and field sources, with a particular focus on viral infections in Madagascar fruit bats.</p>
 </div>
+<hr />
 <div style="text-align: left; font-size: 1em;">
 <p><strong>Brook CE</strong> and Dobson AP. 2015. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. Trends in Microbiology. doi: <a href="https://doi.org/10.1016/j.tim.2014.12.004">10.1016/j.tim.2014.12.004</a></p>
 <p>Guth S, Visher E, Boots M, and <strong>Brook CE.</strong> 2019. Host phylogenetic distance drives trends in virus virulence and transmissibility across the animal-human interface. Philosophical Transactions of the Royal Society. 374(1782): 20190296. doi: <a href="https://doi.org/10.1098/rstb.2019.0296">10.1098/rstb.2019.0296</a>.</p>
@@ -410,6 +399,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

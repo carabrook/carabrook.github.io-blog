@@ -20,8 +20,10 @@ h1.title {
 <img src="flying_bat.png" alt="bat" style="height: 300px; padding-right: 10px;" align="left"><div style="text-align: left; font-size: 1.2em; padding-right=100px">Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses, including Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS and MERS coronaviruses. Bats appear to host these viruses without experiencing extensive morbidity or mortality, leading researchers to ask whether bats might be uniquely adapted for their roles as pathogen hosts. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections ([Zhang et al. 2013](https://science.sciencemag.org/content/339/6118/456), [Pavlovich et al. 2018](https://www.sciencedirect.com/science/article/pii/S0092867418304021), [Xie et al. 2018](https://www.sciencedirect.com/science/article/pii/S1931312818300416)). I bridge field ecology, cellular immunology, and quantitative epidemiology to investigate both **population-level** and **within-host** questions related to this research theme. The fitting of dynamic models to time series data represents an underlying theme in my work. I derive data from a variety of laboratory and field sources, with a particular focus on viral infections in Madagascar fruit bats. 
 </div>
 
+---
 
 <div style="text-align: left; font-size: 1em;">
+
 
 **Brook CE** and Dobson AP. 2015. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. Trends in Microbiology. doi: [10.1016/j.tim.2014.12.004](https://doi.org/10.1016/j.tim.2014.12.004)
 
