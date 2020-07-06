@@ -20,8 +20,11 @@ h1.title {
 <br>
 
 <div style="text-align: left; font-size: 1.4em;">
+
 **In Review**
 </div>
+- Gentles A, Guth S, Rozins C, and **Brook CE**. In Review. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* 
+
 - Annapragada A, **Brook CE**, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. In Review. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. *Biodiversity and Conservation.*
 
 <div style="text-align: left; font-size: 1.4em;">
