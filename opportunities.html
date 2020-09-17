@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +83,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -232,6 +231,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -243,18 +243,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -302,7 +290,7 @@ $(document).ready(function () {
   <a href="opportunities.html">Opportunities</a>
 </li>
 <li>
-  <a href="https://carabrook.github.io/blog">Blog</a>
+  <a href="https://carabrook.github.io/blog">Popular Writing</a>
 </li>
 <li>
   <a href="https://carabrook.github.io/E2M2">E2M2</a>
@@ -332,7 +320,7 @@ h1.title {
 }
 </style>
 <div style="text-align: left; font-size: 1.4em; color:#C11B17;">
-<p><strong>Applications for the Ekipa Fanihy <em>Field Project Manager</em> positions are now closed. Please check back in spring 2020 for potential position openings in the 2020-2021 academic year.</strong></p>
+<p><strong>Applications for the Ekipa Fanihy <em>Field Project Manager</em> are on hold due to COVID-19. However, I am recruiting graduate students to start in the Department of Ecology and Evolution at the University of Chicago in fall 2021. Please reach out if you are interested in potentially applying!.</strong></p>
 </div>
 <hr />
 <p>In part with Ekipa Fanihy, I periodically hire <strong>Field Project Managers</strong> (usually American post-bac students; see <a href="team.html">Team</a>) to work with Malagasy graduate students on fruit bat infection studies. I have found this to be rewarding opportunity for both parties to engage in scientific and cultural exhange. A general description of the workload and qualifications for such a position is outlined below. Details surrounding compensation and application submission will be posted as new positions become available in spring 2020.</p>
@@ -393,6 +381,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
