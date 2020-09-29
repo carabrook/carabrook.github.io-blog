@@ -54,7 +54,7 @@ h1.title {
 **2019**
 </div>
 
--	**Brook CE**. 2019. A batty concept goes viral. *Nature Ecology & Evolution.* doi: [10.1038/s41559-019-1045-5](https://www.nature.com/articles/s41559-019-1045-5).
+-	**Brook CE**. 2019. A batty concept goes viral. *Nature Ecology & Evolution.* 3(12): 1620-1621. doi: [10.1038/s41559-019-1045-5](https://www.nature.com/articles/s41559-019-1045-5).
 
 - Guth S, Visher E, Boots M, and **Brook CE.** 2019. Host phylogenetic distance drives trends in virus virulence and transmissibility across the animal-human interface. *Philosophical Transactions of the Royal Society.* 374(1782): 20190296. doi: [10.1098/rstb.2019.0296](https://doi.org/10.1098/rstb.2019.0296).
 

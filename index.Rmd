@@ -16,13 +16,13 @@ h1.title {
 <div id="bg_image"> 
 <div style="text-align: left; font-size: 1.4em;">
 cbrook(at)berkeley.edu <br>
-[Branco Weiss Society in Science Fellow](https://ecologyandevolution.uchicago.edu/)<br>
+[Branco Weiss Society in Science Fellow](https://brancoweissfellowship.org/)<br>
 Department of Integrative Biology<br>
 University of California, Berkeley<br>
 <br>
 Starting August 2021: <br>
 Assistant Professor <br>
-Department of Ecology and Evolution <br>
+[Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) <br>
 University of Chicago
 <br>
 <img src="IMGP8459crop.jpg" alt="baobabs" style="width: 80%; height: 80%" align="left">
