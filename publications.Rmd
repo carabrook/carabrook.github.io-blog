@@ -30,16 +30,16 @@ h1.title {
 - Annapragada A, **Brook CE**, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. In Review. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. *Biodiversity and Conservation.*
 
 <div style="text-align: left; font-size: 1.4em;">
-**In Revision**
+**In Press**
 </div>
 
-- Gentles A, Guth S, Rozins C, and **Brook CE**. In Revision. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* 
+- Gentles A, Guth S, Rozins C, and **Brook CE**. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* 
 
 <div style="text-align: left; font-size: 1.4em;">
 **2020**
 </div>
 
-- Rocha R, Aziz SA, **Brook CE**, Carvalho WD, Cooper-Bohannon R, Frick WF, Huang JCC, Kingston T, Lopez-Baucells A, Maas B, Mathews F, Medellin RA, Olival KJ, Peel AJ, Plowright RK, Razgour O, Rebelo H, Rodrigues L, Rossiter SJ, Russo D, Straka TM, Teeling EC, Treuer T, Voigt CC, and  Webala PW. Bat conservation and zoonotic disease risk: a research agenda to prevent misguided persecution in the aftermath of COVID-19. 2020. *Animal Conservation.* doi: [10.1111/acv.12636](https://doi.org/10.1111/acv.12636).
+- Rocha R, Aziz SA, **Brook CE**, Carvalho WD, Cooper-Bohannon R, Frick WF, Huang JCC, Kingston T, Lopez-Baucells A, Maas B, Mathews F, Medellin RA, Olival KJ, Peel AJ, Plowright RK, Razgour O, Rebelo H, Rodrigues L, Rossiter SJ, Russo D, Straka TM, Teeling EC, Treuer T, Voigt CC, and  Webala PW. Bat conservation and zoonotic disease risk: A research agenda to prevent misguided persecution in the aftermath of COVID-19. 2020. *Animal Conservation.* doi: [10.1111/acv.12636](https://doi.org/10.1111/acv.12636).
 
 - Olival KJ\*, Cryan PM\*, Amman BR, Baric RS, Blehert DS, **Brook CE**, Calisher CH, Castle KT, Coleman JTH, Daszak P, Epstein JH, Field H, Frick WF, Gilbert AT, Hayman DTS, Ip HS, Karesh WB, Johnson CK, Kading RK, Kingston T, Lorch JM, Mendendall IH, Peel AJ, Phelps KL, Plowright RK, Reeder DM, Reichard JD, Sleeman JM, Streicker DG, Towner JS, and Wang L-F. 2020. Possible risks of SARS-CoV-2 spillover to free-ranging wildlife: a case study of bats. 2020. *PLoS Pathogens.* 16(9): e1008758. doi: [10.1371/journal.ppat.1008758](https://doi.org/10.1371/journal.ppat.1008758).  \*=equal lead contributions
 
