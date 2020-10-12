@@ -3,7 +3,7 @@ title: "Cara E. Brook"
 permalink: ':title/'
 output_dir: "."
 navbar:
-  title: "Cara E. Brook"
+  title: "Brook Lab"
   left:
     - text: "Home"
       href: index.html
