@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="EkipaFanihyLogoWhite.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="baby_bat.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 
 The work of the Brook Lab -- and the inimitable 'Ekipa Fanihy' (or 'Team Fruit Bat' in Malagasy) is centered around understanding the role of bats as natural reservoir hosts for many of the world’s most virulent emerging human viruses, including Ebola, Marburg, Hendra, Nipah, SARS, and SARS-CoV-2 to name just a few. We strive to understand WHAT pathogens these bats are infected with in the closed island-ecosystem of Madagascar, HOW these viruses circulate without causing disease in their native bat hosts, WHEN these viruses are transmitted between bats and across species to pose zoonotic threats to humans, and WHY evolution has selected aspects of the unique bat-virus relationship.
