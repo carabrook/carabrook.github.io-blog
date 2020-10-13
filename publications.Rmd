@@ -25,9 +25,14 @@ h1.title {
 
 - Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. In Review. Modeling cross-species viral transmission and predicting zoonotic potential. *Nature Microbiology.*
 
-- Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. In Review. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.*
 
 - Annapragada A, **Brook CE**, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. In Review. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. *Biodiversity and Conservation.*
+
+<div style="text-align: left; font-size: 1.4em;">
+**In Revision**
+</div>
+
+- Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. In Revision. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.*
 
 <div style="text-align: left; font-size: 1.4em;">
 **In Press**
