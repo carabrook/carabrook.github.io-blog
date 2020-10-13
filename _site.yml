@@ -1,5 +1,5 @@
-name: "Cara E. Brook"
-title: "Cara E. Brook"
+name: "Brook Lab"
+title: "Brook Lab"
 permalink: ':title/'
 output_dir: "."
 navbar:
@@ -11,13 +11,13 @@ navbar:
       href: research_interests.html
     - text: "Publications"
       href: publications.html
-    - text: "Bio"
-      href: about.html
+    - text: "Meet Cara"
+      href: carabrook.html
     - text: "Team"
       href: team.html
-    - text: "Opportunities"
-      href: opportunities.html
-    - text: "Popular Writing"
+    - text: "Join the Lab!"
+      href: jointhelab.html
+    - text: "Blog"
       href: https://carabrook.github.io/blog
     - text: "E2M2" 
       href: https://carabrook.github.io/E2M2

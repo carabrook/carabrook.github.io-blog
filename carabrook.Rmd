@@ -1,5 +1,5 @@
 ---
-title: "**Biography**"
+title: "**Cara E. Brook**"
 output:
   html_document: default
   pdf_document: default
@@ -13,9 +13,15 @@ h1.title {
 }
 </style>
 
-<br/>
 
-<img src="cara_pic.jpg" alt="headshot" style="height: 275px; padding-right: 10px;" align="left"> A Bay Area Native, I grew up in beautiful Sonoma County, CA and graduated from Stanford University with a B.S. degree in [Earth Systems](https://pangea.stanford.edu/esys) in 2010. Post-graduation, I spent two years working a variety of science and development-related jobs as: a [communications intern with World Wildlife Fund in Madagascar](http://wwf.panda.org/how_you_can_help/volunteer/volunteer/volunteer_stories/madagascar/vondrozo_forest/cara_brook/); a field coordinator for a Smithsonian Institution project focused on emerging rodent-borne diseases in Laikipia, Kenya,  a GIS analyst for [Peninsula Open Space Trust](https://openspacetrust.org/); and a research technician on the [USGS Minnesota Wolf Project](http://www.davemech.org/volunteering.html). In the fall of 2012, I moved to New Jersey to embark on a PhD in the [Department of Ecology and Evolutionary Biology at Princeton University](https://eeb.princeton.edu/) and began chasing bat viruses across Madagascar. In August 2017, I defended my dissertation and moved to Berkeley, California to complete a postdoctoral fellowship with the [Miller Institute](http://miller.berkeley.edu/about), working jointly in the labs of [Professor Mike Boots](https://bootslab.org/) and [Professor Britt Glaunsinger](http://glaunsingerlab.berkeley.edu/) in the Departments of Integrative Biology and Plant and Microbiology. After completing my Miller fellowship, I began a [Branco Weiss Society in Science Fellowship](https://brancoweissfellowship.org/), still based at UC Berkeley, which I will bring with me when I commence my Assistant Professorship in the [Department of Ecology and Evolution at the University of Chicago](https://ecologyandevolution.uchicago.edu/) in summer 2021. When I'm not doing science, you'll find me running or hiking throughout the North American West.<br>
+<img src="cara_pic.jpg" alt="headshot" style="height: 275px; padding-right: 10px;" align="left"> Manhoana! My name is Cara Brook, and I am currently a [Branco Weiss ‘Society in Science’ Fellow](https://brancoweissfellowship.org/) (formerly a [Miller Fellow](http://miller.berkeley.edu/)), based jointly at the University of California, Berkeley, and the Institut Pasteur of Madagascar. **I’ll soon be sarting as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago in summer 2021**. Please feel free to get in touch if you are interested in becoming a part of our dynamic team!
+
+I hail originally from beautiful Sonoma County, California, and I grew up hiking backpacking, and camping across the North American West. In 2010, I completed a Bachelor of Science degree in Earth Systems, an interdisciplinary environmental science major, at Stanford University, and shortly after graduation, I travelled to Madagascar for the first time as a sustainable development worker with World Wildlife Fund.
+ 
+They say that those who drink the water of Manangareza River always find their way back to Madagascar, and this is certainly true of me! After a few years of transient globe-trotting and maverick field projects chasing rodent-borne disease in the Kenyan Highlands and tracking wolves in Minnesota’s Boundary Waters, I made my way back to Madagascar in 2012 to kickstart Ekipa Fanihy while pursuing a PhD in Ecology and Evolutionary Biology at Princeton University.
+ 
+Madagascar has shaped my life in more ways than I can count--teaching me courage, humility, wonder, and kindness--in addition to feeding my intellectual and academic curiosity. I founded Ekipa Fanihy (Malagasy for ‘Team Fruit Bat’) out of a desire to undertake scientific development and capacity building, joint with cutting-edge, international research. I believe truly that the latter cannot be achieved without the former.
+ 
 
 <div style="text-align: left; font-size: 1.4em; padding-left: 10px;">
 <a href="CV_CaraBrook_Full_July2020.pdf">Full CV</a></div>

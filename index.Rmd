@@ -15,7 +15,7 @@ Much of our work is focused on zoonotic infections derived from bat reservoirs, 
 
 <div style="text-align: left; font-size: 1.1em;  color:#C11B17;">
 
-**We are recruiting PhD students, postdocs, and field technicians! Please visit 'Join the Lab!' for more information.**
+**We are recruiting PhD students, postdocs, and field technicians! Please visit '[Join the Lab!](jointhelab.html)' for more information.**
 </div>
 <div style="text-align: left; font-size: 1.1em;  color:black;">
 **Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply.**
