@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +83,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -232,6 +231,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -243,18 +243,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -279,7 +267,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Cara E. Brook</a>
+      <a class="navbar-brand" href="index.html">Brook Lab</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -293,13 +281,13 @@ $(document).ready(function () {
   <a href="publications.html">Publications</a>
 </li>
 <li>
-  <a href="about.html">Bio</a>
+  <a href="carabrook.html">Meet Cara</a>
 </li>
 <li>
   <a href="team.html">Team</a>
 </li>
 <li>
-  <a href="opportunities.html">Opportunities</a>
+  <a href="jointhelab.html">Join the Lab!</a>
 </li>
 <li>
   <a href="https://carabrook.github.io/blog">Blog</a>
@@ -331,8 +319,10 @@ h1.title {
   color:black;
 }
 </style>
+<img src="EkipaFanihyLogoWhite.png" alt="bat" style="height: 300px; padding-right: 10px;" align="left">
 <div style="text-align: left; font-size: 1.2em; padding-right=100px">
-<em>Ekipa Fanihy</em> means ‘Team Fruit Bat’ in Malagasy. We are a collection of hard-working students and research staff investigating infection dynamics in three species of Madagascar fruit bat (<em>Pteropus rufus</em>, <em>Eidolon dupreanum</em>, and <em>Rousettus madagascariensis</em>). In an effort to build the longitudinal dataset needed to answer our research questions, we collect monthly biological samples from wild populations of the three Malagasy fruit bat species at several remote Madagascar field sites, then conduct molecular and serological assays on these samples to determine infection and immune status in the laboratory. Visit our <a href="https://openexplorer.nationalgeographic.com/expedition/ekipafanihy/">National Geographic Blogsite</a> to follow our progress in the field!
+<div style="text-align: left; font-size: 1.2em; padding-right=100px">
+<em>Ekipa Fanihy</em> means ‘Team Fruit Bat’ in Malagasy. We are a collection of hard-working students and research staff investigating infection dynamics in three species of Madagascar fruit bat (<em>Pteropus rufus</em>, <em>Eidolon dupreanum</em>, and <em>Rousettus madagascariensis</em>). In an effort to build the longitudinal dataset needed to answer our research questions, we collect monthly biological samples from wild populations of the three Malagasy fruit bat species at several remote Madagascar field sites, then conduct molecular and serological assays on these samples to determine infection and immune status in the laboratory. Visit our <a href="www.brooklab.org/blog">Blogsite</a> to follow our progress in the field!
 </div>
 <p><br></p>
 <hr />
@@ -427,6 +417,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
