@@ -17,7 +17,7 @@ navbar:
       href: team.html
     - text: "Join the Lab!"
       href: jointhelab.html
-    - text: "Blog"
+    - text: "News"
       href: https://carabrook.github.io/blog
     - text: "E2M2" 
       href: https://carabrook.github.io/E2M2
