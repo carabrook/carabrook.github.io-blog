@@ -1,9 +1,9 @@
 name: "Brook Lab"
-title: "Brook Lab"
-permalink: ':title/'
+pagetitle: "Brook Lab @ University of Chicago"
+permalink: ':pagetitle/'
 output_dir: "."
 navbar:
-  title: "Brook Lab"
+  title: ""
   left:
     - text: "Home"
       href: index.html
