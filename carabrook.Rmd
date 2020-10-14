@@ -25,18 +25,6 @@ They say that those who drink the water of Manangareza River always find their w
 <a href="CV_CaraBrook_Full_July2020.pdf">Full CV</a></div>
 <div style="text-align: left; font-size: 1.4em; padding-right: 10px;">
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a></div>
-
-
-
-<div style="text-align: left; font-size: 1.1em; padding-right: 10px;">
-<br>
-*Watch a short video summary of my research and outreach here (click image):*
-<div style="width:300px; height:200px">
-[![Bats and Viruses in Madagascar](bat-icon.jpg)](https://www.youtube.com/embed/8AMpIQ9gTbE "Bats and Viruses in Madagascar")
+<div style="text-align: left; font-size: 1.4em; padding-right: 10px;">
+<a href="https://www.youtube.com/embed/8AMpIQ9gTbE">Research/Outreach Video Summary</a>
 </div>
-
-
-
-
-
-
