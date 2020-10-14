@@ -31,11 +31,10 @@ They say that those who drink the water of Manangareza River always find their w
 <div style="text-align: left; font-size: 1.1em; padding-right: 10px;">
 <br>
 *Watch a short video summary of my research and outreach here (click image):*
-
-
-[![Bats and Viruses in Madagascar](https://img.youtube.com/vi/8AMpIQ9gTbE/0.jpg)](https://www.youtube.com/embed/8AMpIQ9gTbE "Bats and Viruses in Madagascar")
-
+<div style="width:300px; height:200px">
+[![Bats and Viruses in Madagascar](bat-icon.jpg)](https://www.youtube.com/embed/8AMpIQ9gTbE "Bats and Viruses in Madagascar")
 </div>
+
 
 
 
