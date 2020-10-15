@@ -7,7 +7,7 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="shortcut icon" href="fruit-bat-clipart.jpg" />
-<meta property="og:image" content="fruit-bat-clipart.jpg" />
+
 
 <div style="text-align: left; font-size: 1.5em; color:black;">
 <br>
