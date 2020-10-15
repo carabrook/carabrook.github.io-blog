@@ -4,10 +4,9 @@ output:
   html_document: default
   pdf_document: default
 ---
-
-<link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="shortcut icon" href="fruit-bat-clipart.jpg" />
 
+<link rel="stylesheet" href="styles.css" type="text/css">
 
 <div style="text-align: left; font-size: 1.5em; color:black;">
 <br>
